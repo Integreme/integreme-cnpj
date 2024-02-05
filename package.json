@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-cnpj",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Search for details of a Brazilian company using a CNPJ. By https://integre.me/.",
 	"keywords": [
 		"n8n-community-node-package"
